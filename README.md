@@ -3,6 +3,7 @@ Hi, I'm Mikai, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺<
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
+- [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mikaimorgan35/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mikaimorgan35/ticket-lifecycle)
 - <b>Microsoft Azure</b>
