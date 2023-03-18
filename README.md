@@ -4,7 +4,7 @@ Hi, I'm Mikai, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺<
 
 - <b>osTicket (Help Desk Ticketing System)</b>
 - [osTicket: Prerequisites and Installation](https://github.com/mikaimorgan35/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/mikaimorgan35/post-install-config)
+  - [osTicket: Post-Installation Configuration](https://github.com/mikaimorgan35/Post-Install-Config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mikaimorgan35/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mikaimorgan35/-configure-ad)
